@@ -14,7 +14,7 @@ def get_user_guess():
             else:
                 print('Number must be greater than 0.')
         else:
-            print('quit playin, a real number')
+            print('quit playin mane, a real number')
     return user_guess
 
 def compare_nums():
